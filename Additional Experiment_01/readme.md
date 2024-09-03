@@ -1,6 +1,6 @@
-# OS LAB
+# OS LAB Additional Experiment
 
-# INSTALLATION PROCESS
+# LINUX INSTALLATION PROCESS FOR WSL
 ![pictures](screenshot1.PNG)
 
 ![pictures](screenshot2.PNG)
